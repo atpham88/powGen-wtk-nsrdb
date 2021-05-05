@@ -1,7 +1,9 @@
 '''
-ap's slight revisions to get solar CF for HDV project:
+An's slight revisions to get solar CF for HDV project:
 get solar CF (using year 2014) for 170 charging stations given their lons/lats
 5/4/2021
+
+# -----------------------------------------------
 
 ijbd
 3/25/2021
